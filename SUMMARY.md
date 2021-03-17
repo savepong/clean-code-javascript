@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Clean Code JavaScript](README.md)
+* [Cheatsheets](cheatsheets.md)
 
 ## Clean Code
 
